@@ -1,6 +1,5 @@
-# CAPM Beta Scratchpad using the Messari API
+# Messari-scripts
 
-This repository contains a Jupyter Notebook that demonstrates how to use the Messari API to calculate Capital Asset Pricing Model betas and compares Solana's beta to Bitcoin and Ethereum.
+A repository of scripts to analyze blockchain data using the Messari python API.
 
-
-![alt text](./solana-betas.png "Title")
+##### Author: T. from Data Always | Twitter: @Data_Always | Substack: dataalways.substack.com
